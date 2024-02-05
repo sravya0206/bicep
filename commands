@@ -1,1 +1,2 @@
 Connect-AzAccount -Tenant 'b9fec68c-c92d-461e-9a97-3d03a0f18b82' -SubscriptionId '8d26c250-9500-4f1c-8753-192cd931b3ae'
+Set-AzContext -SubscriptionId 8d26c250-9500-4f1c-8753-192cd931b3ae -ResourceGroupName SodexoTask
